@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aubin SIAHA
-- 👀 I’m interested in software engineer - full stack developer 
-- 🌱 I’m currently learning web development and database management
+- 👀 I’m interested in computer software engineer - full stack developer - data security
+- 🌱 I’m currently learning web development and database administration
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: peraucorps@gmail.com
