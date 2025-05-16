@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aubin SIAHA</h1>
-<h3 align="center">I’m passionate in computer software engineer - Frontend and backend developer - cyber security</h3>
+<h3 align="center">I’m a computer software engineer - Frontend and backend developer - cyber security with an expertize into Cloud computing (GCP)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aubin9&label=Profile%20views&color=0e75b6&style=flat" alt="aubin9" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aubin9" alt="aubin9" /></a> </p>
@@ -8,6 +8,8 @@
 - 🌱 I’m currently learning **MERN stack web development and database administration**
 
 - 👨‍💻 All of my projects are available at **My portfolio** [http://peraubcorps.vercel.app/](http://peraubcorps.vercel.app/)
+  
+- 👨‍💻 **My Website** [https://www.maautech.com/](https://www.maautech.com)
 
 - 📫 How to reach me: **peraucorps@gmail.com**
 
