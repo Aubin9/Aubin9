@@ -15,9 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/aubin9" target="blank"><img align="center" src="https://camo.githubusercontent.com/970d360848b0457c5192633c0a0126f2569d6adc07938077aa91e635426ba19d/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f6769746875622e737667" alt="aubinsiaha" height="30" width="40" /></a>
-<a href="https://twitter.com/aubinsiaha" target="blank"><img align="center" src="https://camo.githubusercontent.com/d08733f833f1456d0bb577c9455d3849f50a607b7b2a168b1e2db3192380305d/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f747769747465722e737667" alt="aubinsiaha" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aubinsiaha" target="blank"><img align="center" src="https://camo.githubusercontent.com/a12f97e0370c6c839fe198521c5536f0fb2ea4ec9005247525f5f3c2f2e91e7e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f6c696e6b6564696e2e737667" alt="aubinsiaha" height="30" width="40" /></a>
+<a href="https://github.com/aubin9" target="blank"><img align="center" src="https://camo.githubusercontent.com/970d360848b0457c5192633c0a0126f2569d6adc07938077aa91e635426ba19d/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f6769746875622e737667" alt="gitHub" height="30" width="40" /></a>
+<a href="https://twitter.com/aubinsiaha" target="blank"><img align="center" src="https://camo.githubusercontent.com/d08733f833f1456d0bb577c9455d3849f50a607b7b2a168b1e2db3192380305d/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f747769747465722e737667" alt="Twitter" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aubinsiaha" target="blank"><img align="center" src="https://camo.githubusercontent.com/a12f97e0370c6c839fe198521c5536f0fb2ea4ec9005247525f5f3c2f2e91e7e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f6c696e6b6564696e2e737667" alt="LinkedIn" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
